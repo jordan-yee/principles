@@ -6,4 +6,4 @@ over time.
 
 # Topics
 
-[Kakoune Plugins](/kakoune_plugins.md)
+[Kakoune Plugins](kakoune-plugins.md)
