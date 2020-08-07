@@ -20,14 +20,23 @@ programming, but may be relevant otherwise.
 A good explanation of each can be found [here](https://deviq.com/solid/).
 
 ## S - Single Responsibility Principle
+> A class should have only one reason to change.
 
 ## O - Open/Closed Princple
+> Software entities (classes, modules, methods, etc.) should be **open** for
+> extension, but **closed** for modification.
 
 ## L - Liskov Substitution Principle
+> Subtypes must be substitutable for their base types.
 
 ## I - Interface Segregation Principle
+> Clients should not be forced to depend on interface methods that they do not
+> use.
 
 ## D - Dependency Inversion Principle
+> High level modules should not depend on low level modules; both should depend
+> on abstractions. Abstractions should not depend on details. Details should
+> depend on abstractions.
 
 # Y.A.G.N.I.
 **Y**ou **A**ren't **G**onna **N**eed **I**t
