@@ -7,6 +7,7 @@ over time.
 # General Topics
 
 [Acronyms](acronyms.md)
+[Sayings](sayings.md)
 
 # Specifi Topics
 
