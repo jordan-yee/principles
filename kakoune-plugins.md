@@ -41,7 +41,7 @@ the apropriate sides, but `j` and `k` are learned associations.
 **Mnemonics** refers to associating a command with the initial letter of the
 command's name to make it easier to remember. There is a lot to remember when
 using any decent text editor, so making a command easier to remember is a good
-thing. However, prioritizing pnuemonic bindings will result in some clunky key
+thing. However, prioritizing mnemonic bindings will result in some clunky key
 combinations, which should be avoided. Further, Kakoune's mode system provides
 menus that display available key bindings in an activated mode, so learning a
 new key combination is a breeze.
