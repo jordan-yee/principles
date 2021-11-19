@@ -5,7 +5,7 @@ TODO: Convert this list into a ToC
 - Design Principles
   - Composability
   - Utility
-  - Ergonomics > Motion > Pnuemonics
+  - Ergonomics > Motion > Mnemonics
   - Interface before implementation
   - Polymorphic behavior
   - Just Works
@@ -24,7 +24,7 @@ useful compound operations.
 ### Utility
 A specific operation should be able to applied to a wide range of use cases.
 
-### Ergonomics > Motion > Pnuemonics
+### Ergonomics > Motion > Mnemonics
 This principle is describing a priority for assigning key combinations.
 
 **Ergonomics** refers to how efficiently and naturally the mechanics of
@@ -38,7 +38,7 @@ to each other. The second way is to associate directions with established,
 directional bindings such as Vi's `hjkl`. `h` and `l` are indeed placed on
 the apropriate sides, but `j` and `k` are learned associations.
 
-**Pnuemonics** refers to associating a command with the initial letter of the
+**Mnemonics** refers to associating a command with the initial letter of the
 command's name to make it easier to remember. There is a lot to remember when
 using any decent text editor, so making a command easier to remember is a good
 thing. However, prioritizing pnuemonic bindings will result in some clunky key
